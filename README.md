@@ -25,7 +25,7 @@ This project focus on discover customers characteristics that lead to high CLV u
 ## **Conclusion**
 By adopting this model, the company could easily predict customers CLV, especially for CLV up to $10,000, and recognize customer who will give CLV more than $10,000 even though the number probably not reliable. 
 
-## **File information**
+## **File Information**
 - **Dataset:** data_customer_lifetime_value.csv
 - **Notebook:** Car Insurance CLV Prediction.ipynb
 - **Model File:** CLV_prediction_model.sav
